@@ -5,8 +5,8 @@
 </p>
 
 - 🏢 I'm starting a business
-- 🌱 I'm learning ![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white&style=for-the-badge)
-- 🎈 I enjoy using code to do things I love.
+- 🌱 I'm learning `Rust`
+- ✨ I enjoy using code to do things I love.
   
 ## 🎨 My Skills
 <div>
