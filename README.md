@@ -1,8 +1,12 @@
-## 👋 Hi, there! I'm Blank038!
+# 👋 Hi, there! I'm Blank038!
+<div>
+    <a href="https://i.blank038.com/">
+        <img src="https://img.shields.io/badge/BLOG-0A0A0A.svg?logo=dev-dot-to&logoColor=white&style=for-the-badge" />
+    </a>
+</div>
 
-<p align="center">
-    <a href="https://i.blank038.com">Blog</a>
-</p>
+
+## 👨‍💻 About me
 
 - 🏢 I'm starting a business
 - 🌱 I'm learning `Rust`
