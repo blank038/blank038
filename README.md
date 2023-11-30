@@ -6,7 +6,7 @@
 </div>
 
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
 - 🏢 I'm starting a business
 - 🌱 I'm learning `Rust`
